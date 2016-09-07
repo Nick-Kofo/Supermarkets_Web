@@ -1,5 +1,5 @@
 <?php
-$host = '127.0.0.1';
+$host = 'localhost:8889';
 $username = 'Cooper';
 $password = 'NorthRemembers20';
 $database = 'supermarkets_prices_comparison';
