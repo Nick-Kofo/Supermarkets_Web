@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost:8889';
-$username = 'Cooper';
-$password = 'NorthRemembers20';
+$username = '***';
+$password = '***';
 $database = 'supermarkets_prices_comparison';
 
 $db = mysqli_connect($host, $username, $password, $database);
